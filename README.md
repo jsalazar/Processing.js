@@ -1,4 +1,4 @@
-processing.js
+Khan Academy - Processing.js
 =============
 
 Khan Academy Middle School Class Demo's
